@@ -31,5 +31,4 @@ Passionate about Web, UX & UI areas development. Always in search of learning mo
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Maxlobo&show_icons=true&theme=dark&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Maxlobo&theme=dark">
 </p>
