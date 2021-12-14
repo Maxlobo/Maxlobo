@@ -6,6 +6,8 @@
 - 💻 Always interested in starting a new project.
 - ⚡ Fun fact: I'm passionate about souls like games.
 
+<img align="right" alt="Hollow" src="https://steamuserimages-a.akamaihd.net/ugc/819002570743228747/79BBE40DC2E83939750E78563B2E8636E724DACB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+
 Passionate about Web, UX & UI areas development. Always in search of learning more!
 
 #### 🛠️ Technologies and Tools
