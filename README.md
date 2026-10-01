@@ -28,9 +28,3 @@ Passionate about Web, UX & UI areas development. Always in search of learning mo
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![github](https://img.shields.io/badge/-github-2D9EA2?&style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-05122A?&style=for-the-badge&logo=markdown&logoColor=white)
-
-## &#x1f4c8; GitHub Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Maxlobo&show_icons=true&theme=tokyonight&line_height=40">
-</p>
